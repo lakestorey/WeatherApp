@@ -148,7 +148,7 @@ namespace XMLWeather
             e.Graphics.DrawString(day3Date.ToString("dddd MMMM d"), arial8, whiteBrush, 300, 50);
             e.Graphics.DrawImage(day2Weather, 325, 75);
             e.Graphics.DrawString("High: " + day3High + "°", arial8, whiteBrush, 315, 125);
-            e.Graphics.DrawString("Low: " + day3Low + "°", arial8, whiteBrush, 315, 135);
+            e.Graphics.DrawString("Low: " + day3Low + "°", arial8, whiteBrush, 315, 135); 
         }
     }
 }
