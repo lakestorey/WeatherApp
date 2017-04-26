@@ -1,4 +1,6 @@
-﻿using System;
+﻿///Lake Storey, Wednesday, April 26, 2017
+///to make a functioning weather application
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
